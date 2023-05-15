@@ -15,7 +15,7 @@
 - 🌱 I'm currently studying more about ReactJS and NodeJS applying it to a personal project  
   
 
-- ⚡ Fun fact: I love beaches 🏖️  
+- ⚡ Fun fact: I like to discover new beaches 🏖️  
   
 
 <br/>  
